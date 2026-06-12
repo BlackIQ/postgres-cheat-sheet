@@ -13,4 +13,10 @@ SELECT * FROM people WHERE age <  23 AND gender = 'FEMALE';
 -- FYI we have OR
 SELECT * FROM people WHERE job = 'Software' or job = 'Network'
 
+-- Between
+SELECT * FROM people WHERE age BETWEEN 18 and 23;
+
+-- IN
+SELECT * FROM people WHERE job IN ('Software', 'Network Admin', 'Sales ')
+
 -- See you at 11
