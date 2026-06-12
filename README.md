@@ -14,8 +14,8 @@ It has kind of everything a beginer need to know. Even `JOIN` or other things. B
 - `DELETE`: Deleting single row and multi rows with WHERE
 - `ORDER BY`: Sorting one col, more than one col having ASC and DESC
 - `GROUP BY`: Base of grouping and aggrigation
-- `HAVING`: Creating
-- `LIMIT`: Creating
+- `HAVING`: Maybe another time I'll add it
+- `LIMIT`: Using sort and limit
 - `ALTER TABLE`: Creating
 - `JOIN`: Creating
 - `Relations`: One to One (1:1), One to Many (1:N), Many to Many (N:N)
