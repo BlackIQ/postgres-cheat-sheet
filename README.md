@@ -19,7 +19,7 @@ It has kind of everything a beginer need to know. Even `JOIN` or other things. B
 - `ALTER TABLE`: Add columns, remove columns
 - `Multi Table`: Having more than 1 tables
 - `FOREIGN KEY`: Relation Matters Most (RMM)
-- `JOIN`: Creating
+- `JOIN`: A brief of how is join working, **even GOD doesn't know**
 - `Relations`: One to One (1:1), One to Many (1:N), Many to Many (N:N)
 
 ## Why PostgreSQL cheat sheet?
