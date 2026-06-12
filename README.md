@@ -1,6 +1,6 @@
 # PostgreSQL Cheat Sheet
 
-A very simple, good, fast way to learn **PostgreSQL** (if you already know SQL).
+A very simple, good, fast way to learn **PostgreSQL** (if you already know SQL) also you may learn SQL here too.
 
 ## Chapters
 
