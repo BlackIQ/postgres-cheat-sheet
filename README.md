@@ -12,8 +12,8 @@ It has kind of everything a beginer need to know. Even `JOIN` or other things. B
 - `WHERE`: Covering important things like between, less, more and etc
 - `UPDATE`: Updating single row and multi rows with WHERE
 - `DELETE`: Deleting single row and multi rows with WHERE
-- `ORDER BY`: Creating
-- `GROUP BY`: Creating
+- `ORDER BY`: Sorting one col, more than one col having ASC and DESC
+- `GROUP BY`: Base of grouping and aggrigation
 - `HAVING`: Creating
 - `LIMIT`: Creating
 - `ALTER TABLE`: Creating
